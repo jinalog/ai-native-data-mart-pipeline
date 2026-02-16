@@ -210,3 +210,10 @@ __marimo__/
 data/raw/
 data/reports/
 data/*.duckdb
+
+# Raw generated data
+data/raw/*.csv
+
+# Reports
+data/reports/*.md
+
